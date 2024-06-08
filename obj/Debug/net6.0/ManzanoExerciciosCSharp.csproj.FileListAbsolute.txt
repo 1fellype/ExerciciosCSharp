@@ -1,0 +1,15 @@
+C:\Users\olivi\OneDrive\Documentos\PROA\ManzanoExerciciosCSharp\obj\Debug\net6.0\ManzanoExerciciosCSharp.csproj.AssemblyReference.cache
+C:\Users\olivi\OneDrive\Documentos\PROA\ManzanoExerciciosCSharp\obj\Debug\net6.0\ManzanoExerciciosCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olivi\OneDrive\Documentos\PROA\ManzanoExerciciosCSharp\obj\Debug\net6.0\ManzanoExerciciosCSharp.AssemblyInfoInputs.cache
+C:\Users\olivi\OneDrive\Documentos\PROA\ManzanoExerciciosCSharp\obj\Debug\net6.0\ManzanoExerciciosCSharp.AssemblyInfo.cs
+C:\Users\olivi\OneDrive\Documentos\PROA\ManzanoExerciciosCSharp\obj\Debug\net6.0\ManzanoExerciciosCSharp.csproj.CoreCompileInputs.cache
+C:\Users\olivi\OneDrive\Documentos\PROA\ManzanoExerciciosCSharp\bin\Debug\net6.0\ManzanoExerciciosCSharp.exe
+C:\Users\olivi\OneDrive\Documentos\PROA\ManzanoExerciciosCSharp\bin\Debug\net6.0\ManzanoExerciciosCSharp.deps.json
+C:\Users\olivi\OneDrive\Documentos\PROA\ManzanoExerciciosCSharp\bin\Debug\net6.0\ManzanoExerciciosCSharp.runtimeconfig.json
+C:\Users\olivi\OneDrive\Documentos\PROA\ManzanoExerciciosCSharp\bin\Debug\net6.0\ManzanoExerciciosCSharp.dll
+C:\Users\olivi\OneDrive\Documentos\PROA\ManzanoExerciciosCSharp\bin\Debug\net6.0\ManzanoExerciciosCSharp.pdb
+C:\Users\olivi\OneDrive\Documentos\PROA\ManzanoExerciciosCSharp\obj\Debug\net6.0\ManzanoExerciciosCSharp.dll
+C:\Users\olivi\OneDrive\Documentos\PROA\ManzanoExerciciosCSharp\obj\Debug\net6.0\refint\ManzanoExerciciosCSharp.dll
+C:\Users\olivi\OneDrive\Documentos\PROA\ManzanoExerciciosCSharp\obj\Debug\net6.0\ManzanoExerciciosCSharp.pdb
+C:\Users\olivi\OneDrive\Documentos\PROA\ManzanoExerciciosCSharp\obj\Debug\net6.0\ManzanoExerciciosCSharp.genruntimeconfig.cache
+C:\Users\olivi\OneDrive\Documentos\PROA\ManzanoExerciciosCSharp\obj\Debug\net6.0\ref\ManzanoExerciciosCSharp.dll
